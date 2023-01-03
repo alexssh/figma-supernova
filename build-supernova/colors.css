@@ -1,0 +1,37 @@
+
+:root {
+    --colorLightNeutralTxtRegular: #000000;    
+    --colorLightNeutralTxtWeak: #777777;    
+    --colorLightNeutralTxtInverted: #ffffff;    
+    --colorLightNeutralIconRegular: #000000;    
+    --colorLightNeutralIconWeak: #777777;    
+    --colorLightNeutralIconInverted: #ffffff;    
+    --colorLightNeutralBgRegular: #ffffff;    
+    --colorLightNeutralBgRegularHover: #eeeeee;    
+    --colorLightNeutralBgWeak: #f5f5f5;    
+    --colorLightNeutralBgStrong: #5c5c5c;    
+    --colorLightNeutralBorderRegular: #eeeeee;    
+    --colorLightAccentTxtRegular: #0085ff;    
+    --colorLightAccentTxtInverted: #ffffff;    
+    --colorLightAccentIconRegular: #0085ff;    
+    --colorLightAccentIconInverted: #ffffff;    
+    --colorLightAccentBgRegular: #0085ff;    
+    --colorLightAccentBgRegulatHover: #0070d7;    
+    --colorDarkNeutralTxtRegular: #ffffff;    
+    --colorDarkNeutralTxtWeak: #777777;    
+    --colorDarkNeutralTxtInverted: #000000;    
+    --colorDarkNeutralIconRegular: #ffffff;    
+    --colorDarkNeutralIconWeak: #777777;    
+    --colorDarkNeutralIconInverted: #000000;    
+    --colorDarkNeutralBgRegular: #000000;    
+    --colorDarkNeutralBgRegularHover: #333333;    
+    --colorDarkNeutralBgWeak: #1c1c1c;    
+    --colorDarkNeutralBgStrong: #dadada;    
+    --colorDarkNeutralBorderRegular: #333333;    
+    --colorDarkAccentTxtRegular: #0085ff;    
+    --colorDarkAccentTxtInverted: #ffffff;    
+    --colorDarkAccentIconRegular: #0085ff;    
+    --colorDarkAccentIconInverted: #ffffff;    
+    --colorDarkAccentBgRegular: #0085ff;    
+    --colorDarkAccentBgRegularHover: #3aa1ff;    
+}

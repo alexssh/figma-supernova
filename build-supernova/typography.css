@@ -1,0 +1,70 @@
+.typographyHeadingHero 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingTitleMobile 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingTitleDesktop 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyMain 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyMeta 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
