@@ -1,9 +1,9 @@
 .typographyHeadingHero 
  {
   
-  font-family: "Inter";
+  font-family: "Arial";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 40px;
   line-height: 32px;
   letter-spacing:  
@@ -15,9 +15,9 @@
 .typographyHeadingTitleMobile 
  {
   
-  font-family: "Inter";
+  font-family: "Arial";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 26px;
   line-height: 32px;
   letter-spacing:  
@@ -29,9 +29,9 @@
 .typographyHeadingTitleDesktop 
  {
   
-  font-family: "Inter";
+  font-family: "Arial";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 32px;
   line-height: 40px;
   letter-spacing:  
@@ -43,7 +43,7 @@
 .typographyBodyMain 
  {
   
-  font-family: "Inter";
+  font-family: "Arial";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -57,7 +57,7 @@
 .typographyBodyMeta 
  {
   
-  font-family: "Inter";
+  font-family: "Arial";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
